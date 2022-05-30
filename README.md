@@ -1,1 +1,3 @@
 # GameScript
+
+extention: .nsc / .ns
