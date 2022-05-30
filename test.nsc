@@ -1,0 +1,6 @@
+using Controls;
+
+Window Main ("hello world")
+{
+
+}
